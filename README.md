@@ -1,11 +1,7 @@
 # Netlify mdx-bundler test
 
-Checking v6.0.3 or mdx-bundler
+NOTE: I was not able to get this working.
 
-Installed these:
+I had it working at one point, but I gave up fighting against it.
 
-```
-npx create-next-app .
-npm install --save mdx-bundler
-npm install --save @netlify/plugin-nextjs
-```
+There's a list of the error messages on my site.
